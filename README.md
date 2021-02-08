@@ -1,16 +1,25 @@
 ### Hi there 👋
-
-<!--
-**wein-hillary/wein-hillary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My name is Hillary and my pronouns are she, her, hers.
+### High-level:
+- Three words I used to describe myself are thoughtful, curious, empathetic.
+- My non-work related interests include: language learning, anything outdoorsy or fitness related, and googling “why are my plants dying” at 2am. 
+- I am comically bad at remembering expressions. Feel free to ask me more about some of the ones I have gotten wildly wrong (I keep a list).
+- ENFJ, enneagram 2.
+### What do you want us to know about your communication style?:
+- I am transparent and direct, and will tell you when I have doubts, concerns, or objections. Please do the same with me! I both expect and offer kindness in these interactions.
+- In guess culture vs. ask culture, I am an asker. 
+- I am an incredibly visual person, if we are working together screenshots, videos, or screen sharing help.
+### What are some useful things to know in advance about your style?
+- Most of my questions come up once I have been given time to start work or make headway on a task. Additionally, I sometimes ask questions that are about four steps ahead of where I should be. It comes from being an eager person.
+- My mind operates as if it is a window with 17 tabs open. I do my best to stay focused on the task at hand, but may get excited and try to do too many things at once. 
+### How can you best work with me?
+- I _always_ love explanations. When in doubt, please share more than I asked for. 
+- If a decision is being made or a plan implemented that I was not a part of, I will want to know why. 
+- Make any action items or requests clear! 
+### What are your pet peeves?
+- Excess or unnecessary noise and loud settings in general are overstimulating to me. I work best in quiet environments and without background noise.
+- I do not appreciate yelling or passive aggressiveness. 
+### What are your self-perceived biggest shortcomings?
+- :brain: ooooverthinking things.
+- I am remarkably competitive and am actively working on toning this down a few notches. 
+- I am developing technical skills, however, I have some sizable foundational gaps as this is my first time working in a purely technical environment. Please do not hesitate to send over any resources or articles you find that may be helpful (unsolicited advice is welcome!)
