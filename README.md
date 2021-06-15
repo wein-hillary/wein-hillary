@@ -6,8 +6,6 @@
 - ENFJ, enneagram 2.
 ### What should you know about my communication style?:
 - I am transparent and direct, and will tell you when I have doubts, concerns, or objections. Please do the same with me! I both expect and offer kindness in these interactions.
-- In guess culture vs. ask culture, I am an asker.
-### What are some useful things to know before working with me?
 -  Most of my questions come up once I have been given time to start work or make headway on a task. Additionally, I sometimes ask questions that are about four steps ahead of where I should be. It comes from being an eager person.
 - My mind operates as if it is a window with 17 tabs open. I do my best to stay focused on the task at hand, but may get excited and try to do too many things at once. 
 ### How can you best work with me?
@@ -15,7 +13,6 @@
 - Make any action items or requests clear! 
 ### What are your pet peeves?
 - Excess or unnecessary noise and loud settings in general are overstimulating to me. I work best in quiet environments and without background noise.
-- I do not appreciate yelling or passive aggressiveness. 
 ### What are your self-perceived biggest shortcomings?
 - :brain: ooooverthinking things.
 - I am remarkably competitive.
