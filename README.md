@@ -8,4 +8,4 @@
 - Excess or unnecessary noise and loud settings in general are overstimulating to me. I work best in quiet environments and without background noise.
 ### What are your self-perceived biggest shortcomings?
 - I am remarkably competitive.
-- I am constantly aiming to further develop technical skills, Please do not hesitate to send over any resources or articles you find that may be helpful (unsolicited advice is welcome in this case!)
+- I am constantly aiming to further develop technical skills. Please do not hesitate to send over any resources or articles you find that may be helpful (unsolicited advice is welcome in this case!)
